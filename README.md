@@ -16,7 +16,7 @@
 
 ## My most used language
 
-![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=laolarou726&layout=compact)
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=laolarou726&layout=compact&theme=dracula)
 
 ## Get in touch
 
