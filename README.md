@@ -2,21 +2,20 @@
 
 ## My projects
 
-🌲 [ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) : Minecraft Java Edition launcher core based on C# & .Net 5.
-
-🐛 [MojangGameReleaseNoteParser](https://github.com/Corona-Studio/MojangGameReleaseNoteParser) : Convert Mojang release notes to FlowDocument.
-
-🐛 [mcbbs-news-parser](https://github.com/Corona-Studio/mcbbs-news-parser) : Parse Mcbbs news to json.
-
-🐟 [larou-azure-devops-status](https://github.com/laolarou726/larou-azure-devops-status) : Azure Devops Checker.
+[![ProjBobcat](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ProjBobcat)](https://github.com/Corona-Studio/ProjBobcat)
+[![MojangGameReleaseNoteParser](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=MojangGameReleaseNoteParser)](https://github.com/Corona-Studio/MojangGameReleaseNoteParser)
+[![mcbbs-news-parser](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=mcbbs-news-parser)](https://github.com/Corona-Studio/mcbbs-news-parser)
+[![larou-azure-devops-status](https://github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=larou-azure-devops-status)](https://github.com/laolarou726/larou-azure-devops-status)
 
 ## About me
 
-![About me](https://github-readme-stats.vercel.app/api?username=laolarou726&show_icons=true&theme=dracula)
+![About me](https://github-readme-stats.vercel.app/api?username=laolarou726&count_private=true&show_icons=true&theme=dracula)
 
 ## My most used language
 
-![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=laolarou726&layout=compact&theme=dracula)
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=laolarou726&count_private=true&layout=compact&theme=dracula)
+
+## 
 
 ## Get in touch
 
