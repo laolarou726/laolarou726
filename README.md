@@ -3,7 +3,7 @@
 ## My projects
 
 [![ProjBobcat](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ProjBobcat&theme=swift)](https://github.com/Corona-Studio/ProjBobcat)
-[![MojangGameReleaseNoteParser](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=MojangGameReleaseNoteParser&theme=swift)](https://github.com/Corona-Studio/MojangGameReleaseNoteParser)
+[![SharpWebServer](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=SharpWebServer&theme=swift)](https://github.com/Corona-Studio/MojangGameReleaseNoteParser)
 [![mcbbs-news-parser](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=mcbbs-news-parser&theme=swift)](https://github.com/Corona-Studio/mcbbs-news-parser)
 [![larou-azure-devops-status](https://github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=larou-azure-devops-status&theme=swift)](https://github.com/laolarou726/larou-azure-devops-status)
 
