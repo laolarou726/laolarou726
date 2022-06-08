@@ -1,5 +1,7 @@
 # Hi there 👋 I'm laolarou @laolarou726 🥓
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,java,html,ts,nodejs)](https://skillicons.dev)
+
 ## My projects
 
 [![ProjBobcat](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ProjBobcat&theme=swift)](https://github.com/Corona-Studio/ProjBobcat)
