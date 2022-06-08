@@ -1,10 +1,8 @@
-<p align="center">
+<p>
 <img src="/laolarou.svg"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,java,html,ts,nodejs"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,java,html,ts,nodejs)](https://skillicons.dev)
 
 ## 🎲 My projects
 
