@@ -1,6 +1,6 @@
 
 <p>
-<img src="/laolarou_min.svg" />
+<img src="/laolarou.svg" />
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,java,html,ts,nodejs)](https://skillicons.dev)
