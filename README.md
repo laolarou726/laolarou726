@@ -8,7 +8,7 @@
 
 [![ProjBobcat](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ProjBobcat&theme=swift)](https://github.com/Corona-Studio/ProjBobcat)
 [![SharpWebServer](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=SharpWebServer&theme=swift)](https://github.com/Corona-Studio/SharpWebServer)
-[![mcbbs-news-parser](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=mcbbs-news-parser&theme=swift)](https://github.com/Corona-Studio/mcbbs-news-parser)
+[![CoolCompiler](https://github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=CoolCompiler&theme=swift)](https://github.com/laolarou726/CoolCompiler)
 [![larou-azure-devops-status](https://github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=larou-azure-devops-status&theme=swift)](https://github.com/laolarou726/larou-azure-devops-status)
 [![CardX](https://github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=CardX&theme=swift)](https://github.com/laolarou726/CardX)
 [![AnimationX](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=AnimationX&theme=swift)](https://github.com/Corona-Studio/AnimationX)
