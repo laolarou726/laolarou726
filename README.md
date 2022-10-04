@@ -23,5 +23,5 @@
 
 ## 📫 Get in touch
 
-- E-Mail: [laolarou726@outlook.com](mailto:laolarou726@outlook.com)
+- E-Mail: [luolinrui726@outlook.com](mailto:luolinrui726@outlook.com)
 - BiliBili: [老腊肉726](https://space.bilibili.com/31267692)
