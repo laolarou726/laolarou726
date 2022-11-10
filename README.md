@@ -6,7 +6,7 @@
 
 ## 🎲 My projects
 
-[![ProjBobcat](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ProjBobcat&theme=dark#gh-light-mode-only)](https://github.com/Corona-Studio/ProjBobcat)
+[![ProjBobcat](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ProjBobcat&theme=dark#gh-dark-mode-only)](https://github.com/Corona-Studio/ProjBobcat)
 [![ProjBobcat](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ProjBobcat&theme=swift#gh-light-mode-only)](https://github.com/Corona-Studio/ProjBobcat)
 
 [![SharpWebServer](https://github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=SharpWebServer&theme=swift#gh-light-mode-only)](https://github.com/Corona-Studio/SharpWebServer)
