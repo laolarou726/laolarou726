@@ -8,8 +8,8 @@
 
 [![ProjBobcat](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ProjBobcat&theme=radical#gh-dark-mode-only)](https://github.com/Corona-Studio/ProjBobcat#gh-dark-mode-only)
 [![ProjBobcat](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ProjBobcat&theme=swift#gh-light-mode-only)](https://github.com/Corona-Studio/ProjBobcat#gh-light-mode-only)
-[![CardX](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ConnectX&theme=radical#gh-dark-mode-only)](https://github.com/Corona-Studio/ConnectX#gh-dark-mode-only)
-[![CardX](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ConnectX&theme=swift#gh-light-mode-only)](https://github.com/Corona-Studio/ConnectX#gh-light-mode-only)
+[![ConnectX](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ConnectX&theme=radical#gh-dark-mode-only)](https://github.com/Corona-Studio/ConnectX#gh-dark-mode-only)
+[![ConnectX](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=corona-studio&repo=ConnectX&theme=swift#gh-light-mode-only)](https://github.com/Corona-Studio/ConnectX#gh-light-mode-only)
 [![MiniGameRouter](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=MiniGameRouter&theme=radical#gh-dark-mode-only)](https://github.com/laolarou726/MiniGameRouter#gh-dark-mode-only)
 [![MiniGameRouter](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=MiniGameRouter&theme=swift#gh-light-mode-only)](https://github.com/laolarou726/MiniGameRouter#gh-light-mode-only)
 [![CoolCompiler](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=CoolCompiler&theme=radical#gh-dark-mode-only)](https://github.com/laolarou726/CoolCompiler#gh-dark-mode-only)
