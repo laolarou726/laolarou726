@@ -16,8 +16,8 @@
 [![RAG_Demo](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=RAG_Demo&theme=swift#gh-light-mode-only)](https://github.com/laolarou726/RAG_Demo#gh-light-mode-only)
 [![CoolCompiler](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=CoolCompiler&theme=radical#gh-dark-mode-only)](https://github.com/laolarou726/CoolCompiler#gh-dark-mode-only)
 [![CoolCompiler](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=CoolCompiler&theme=swift#gh-light-mode-only)](https://github.com/laolarou726/CoolCompiler#gh-light-mode-only)
-[![ToyRT](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=ToyRT&theme=radical#gh-dark-mode-only)](https://github.com/laolarou726/ToyRT#gh-dark-mode-only)
-[![ToyRT](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=ToyRT&theme=swift#gh-light-mode-only)](https://github.com/laolarou726/ToyRT#gh-light-mode-only)
+[![ProcessorLatencyTool](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=ProcessorLatencyTool&theme=radical#gh-dark-mode-only)](https://github.com/laolarou726/ProcessorLatencyTool#gh-dark-mode-only)
+[![ProcessorLatencyTool](https://laolarou-github-readme-stats.vercel.app/api/pin/?username=laolarou726&repo=ProcessorLatencyTool&theme=swift#gh-light-mode-only)](https://github.com/laolarou726/ProcessorLatencyTool#gh-light-mode-only)
 
 ## 👀 About me
 
