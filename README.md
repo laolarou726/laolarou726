@@ -2,7 +2,7 @@
 <img src="/laolarou.svg"/>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,go,unity,java,cpp,react,vuejs,ts,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,go,cpp,unity,java,react,vuejs,ts,nodejs)](https://skillicons.dev)
 
 ## 🎲 My projects
 
